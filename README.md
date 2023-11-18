@@ -1,4 +1,4 @@
-a# Places Around Me
+# Ex-06-Places Around Me
 # Aim:
 To develop a website to display details about the places around my house.
 

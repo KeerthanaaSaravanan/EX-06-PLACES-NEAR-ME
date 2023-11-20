@@ -326,11 +326,12 @@ Mention your domain URL and the GitHub Repo URL in the submission text and attac
 
 # Output:
 ![0](https://github.com/KeerthanaaSaravanan/EX-06-PLACES-NEAR-ME/assets/145742596/8089acf6-8363-4f0f-b71f-2f1e195198ac)
-![Uploading 1.png…]()
+![1](https://github.com/KeerthanaaSaravanan/EX-06-PLACES-NEAR-ME/assets/145742596/67b5add7-1276-43db-9e72-9fc0cf3347f4)
 ![2](https://github.com/KeerthanaaSaravanan/EX-06-PLACES-NEAR-ME/assets/145742596/f86ced95-41e7-4e11-94c6-49124ab92c90)
-![Uploading 3.png…]()
+![3](https://github.com/KeerthanaaSaravanan/EX-06-PLACES-NEAR-ME/assets/145742596/d2ef42c6-b513-44ae-86ba-e85e07e3c785)
 ![4](https://github.com/KeerthanaaSaravanan/EX-06-PLACES-NEAR-ME/assets/145742596/7bc8e0cd-4ca2-4099-b79a-117a65b99e59)
-![Uploading 5.png…]()
+![5](https://github.com/KeerthanaaSaravanan/EX-06-PLACES-NEAR-ME/assets/145742596/fd99a883-93ab-485f-bae7-0c2d73d24623)
+
 
 # Result:
 Image map is succesfully created and executed.

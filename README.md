@@ -324,12 +324,12 @@ Mention your domain URL and the GitHub Repo URL in the submission text and attac
 ```
 
 # Output:
-![Alt text](maps/mapapp/static/0.png)
-![Alt text](maps/mapapp/static/1.png)
-![Alt text](maps/mapapp/static/2.png)
-![Alt text](maps/mapapp/static/3.png)
-![Alt text](maps/mapapp/static/4.png)
-![Alt text](maps/mapapp/static/5.png)
+![Alt text](0.png)
+![Alt text](1.png)
+![Alt text](2.png)
+![Alt text](3.png)
+![Alt text](4.png)
+![Alt text](5.png)
 
 # Result:
 Image map is succesfully created and executed.

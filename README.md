@@ -1,4 +1,4 @@
-# Ex-06-Places Around Me
+# Ex-06: Places Around Me
 
 # Aim:
 To develop a website to display details about the places around my house.
@@ -24,6 +24,10 @@ Mention your domain URL and the GitHub Repo URL in the submission text and attac
 
 # Code:
 ```
+'''
+Devoloped By: KEERTHANA S
+Register no: 23013398
+'''
 <html>
 <head>
 <title>MY CITY</title>
